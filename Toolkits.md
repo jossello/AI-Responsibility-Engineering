@@ -1,0 +1,81 @@
+# Responsibility Engineering Toolkits
+
+Methods and frameworks for designing, evaluating, and governing AI systems in real-world organizational environments.
+
+## Why This Repository Exists
+
+Most AI systems work in demos.
+
+Far fewer hold up under production conditions where ownership blurs, dependencies remain hidden, and behavior drifts under pressure.
+
+These toolkits were developed to help teams move beyond model performance and evaluate how AI systems behave inside organizations.
+
+The work draws on enterprise transformation experience across AI pilots, governance, operating model design, and behavioral evaluation.
+
+---
+
+## Toolkit 1: Drift Detective
+
+**Purpose:** Identify and diagnose behavioral, operational, and organizational drift in AI systems over time.
+
+### Questions it helps answer
+
+- Is the system still behaving as intended?
+- Where is drift occurring: model, workflow, policy, or human interaction?
+- What signals should be monitored before failures emerge?
+- How should teams intervene?
+
+### Best for
+
+- AI governance teams
+- Program managers
+- Product managers
+- AI operations leaders
+- Risk and compliance organizations
+
+**Artifact:** 
+📄 [Open Drift Detective](https://drive.google.com/file/d/1NeBzc6LZMXwAC6jpRAYhpUBzELH6gUVI/view?usp=drive_link)
+
+---
+
+## Toolkit 2: AI Behavior Playbook
+
+**Purpose:** Provide structured methods for evaluating AI behavior under realistic scenarios.
+
+### Includes
+
+- Scenario generation
+- Transcript normalization
+- Evaluation rubrics
+- Behavioral metrics
+- Comparative analysis methods
+
+### Example dimensions
+
+- Tone stability
+- Boundary adherence
+- Escalation behavior
+- Sycophancy detection
+- Response quality under pressure
+
+**Artifact:** 
+📊 [Open AI Behavior Playbook](https://docs.google.com/spreadsheets/d/1ugO8cb9Ahm0iyLXcdow7NoP3DK8JjZvk/edit?usp=drive_link&ouid=117670687421079393719&rtpof=true&sd=true)
+
+---
+
+## Responsibility Engineering
+
+Responsibility Engineering is the practice of designing AI systems with explicit ownership, authority boundaries, escalation paths, and evaluation mechanisms.
+
+The goal is not simply to deploy AI, but to create systems that remain trustworthy as they scale.
+
+---
+
+## Author
+
+**Judy Ossello**
+
+Enterprise AI & Operating Model Leader  
+ex-Nike · Intel  
+
+Designing AI-enabled systems that teams can own.
