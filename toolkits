@@ -12,24 +12,26 @@ These toolkits were developed to help teams move beyond model performance and ev
 
 The work draws on enterprise transformation experience across AI pilots, governance, operating model design, and behavioral evaluation.
 
+---
+
 ## Toolkit 1: Drift Detective
 
 **Purpose:** Identify and diagnose behavioral, operational, and organizational drift in AI systems over time.
 
 ### Questions it helps answer
 
-* Is the system still behaving as intended?
-* Where is drift occurring: model, workflow, policy, or human interaction?
-* What signals should be monitored before failures emerge?
-* How should teams intervene?
+- Is the system still behaving as intended?
+- Where is drift occurring: model, workflow, policy, or human interaction?
+- What signals should be monitored before failures emerge?
+- How should teams intervene?
 
 ### Best for
 
-* AI governance teams
-* Program managers
-* Product managers
-* AI operations leaders
-* Risk and compliance organizations
+- AI governance teams
+- Program managers
+- Product managers
+- AI operations leaders
+- Risk and compliance organizations
 
 **Artifact:** `drift-detective/Drift_Detective.pdf`
 
@@ -41,19 +43,19 @@ The work draws on enterprise transformation experience across AI pilots, governa
 
 ### Includes
 
-* Scenario generation
-* Transcript normalization
-* Evaluation rubrics
-* Behavioral metrics
-* Comparative analysis methods
+- Scenario generation
+- Transcript normalization
+- Evaluation rubrics
+- Behavioral metrics
+- Comparative analysis methods
 
 ### Example dimensions
 
-* Tone stability
-* Boundary adherence
-* Escalation behavior
-* Sycophancy detection
-* Response quality under pressure
+- Tone stability
+- Boundary adherence
+- Escalation behavior
+- Sycophancy detection
+- Response quality under pressure
 
 **Artifact:** `ai-behavior-playbook/AI_Behavior_Playbook.xlsx`
 
@@ -65,12 +67,13 @@ Responsibility Engineering is the practice of designing AI systems with explicit
 
 The goal is not simply to deploy AI, but to create systems that remain trustworthy as they scale.
 
+---
+
 ## Author
 
 **Judy Ossello**
 
-Enterprise AI & Operating Model Leader
-ex-Nike · Intel
+Enterprise AI & Operating Model Leader  
+ex-Nike · Intel  
 
 Designing AI-enabled systems that teams can own.
-
